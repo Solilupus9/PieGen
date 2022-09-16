@@ -1,0 +1,22 @@
+body{
+    background-color:white;
+}
+
+.header{
+    margin: 0px;
+    border: 0px;
+    font-size: 5vw;
+    text-align: center;
+    color: rgb(50, 172, 3);
+	padding: 0px 0px 20px 0px;
+}
+
+.container {
+  height: 100vh;
+}
+
+.chart-wrapper {
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+}
